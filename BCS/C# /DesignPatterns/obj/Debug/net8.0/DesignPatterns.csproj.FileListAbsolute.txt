@@ -1,0 +1,15 @@
+/home/thareesha/BCS/C# /DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/home/thareesha/BCS/C# /DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/home/thareesha/BCS/C# /DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/home/thareesha/BCS/C# /DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/home/thareesha/BCS/C# /DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.sourcelink.json
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/home/thareesha/BCS/C# /DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll
